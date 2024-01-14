@@ -1,0 +1,1 @@
+This is an attempt to build a face detection model using OpenCv, and IBM watson for image labelling. But later found that IBM watson isn't free, even for educational purpose. So, this little project is on a hold. I'll be getting back to this later. Thank you.
